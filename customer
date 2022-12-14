@@ -1,0 +1,3 @@
+create table suppliers(spnumber int auto_increment,spname varchar(30)not null,ph_no varchar(15),addr1 varchar(50),addr2 varchar(50),city varchar(20),state varchar(20),pincode varchar(10),country varchar(20),primary key(spnumber));
+
+`
